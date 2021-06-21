@@ -90,6 +90,7 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
+            "lightgbm",
         ],
         entry_points={
             "console_scripts": [
